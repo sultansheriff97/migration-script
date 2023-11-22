@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mh-cbon/sudo-fs": "^1.0.17",
+    "fs-extra": "^11.1.1",
+    "ramda": "^0.29.0",
+    "xlsx": "^0.18.5"
+  }
+}
